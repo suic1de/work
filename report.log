@@ -1,0 +1,33 @@
+2021-01-08 20:24:37,060 | DEBUG <> [LOGGER] LOGGING > STARTED.
+2021-01-08 20:24:37,060 | DEBUG <> [MAIN] Starting module imports.
+2021-01-08 20:24:38,215 | INFO <> Failed to load SSL library: <class 'OSError'> (no library called "ssl" found).
+2021-01-08 20:24:38,227 | INFO <> cryptg detected, it will be used for encryption.
+2021-01-08 20:24:39,153 | DEBUG <> [CHECK\SETTINGS] Checking file integrity.
+2021-01-08 20:24:39,154 | INFO <> [CHECK\SETTINGS] settings.ini - OK.
+2021-01-08 20:24:39,154 | INFO <> [CHECK\SETTINGS] All sections - OK > ['BASE', 'FILTER', 'LOADER'].
+2021-01-08 20:24:39,154 | DEBUG <> [CHECK\SETTINGS] Successful.
+2021-01-08 20:24:39,154 | INFO <> [SETTINGS] №1 Requesting the settings file > LOADER, apiid.
+2021-01-08 20:24:39,154 | INFO <> [SETTINGS] №2 Response > 1.
+2021-01-08 20:24:39,155 | INFO <> [SETTINGS] №1 Requesting the settings file > LOADER, apihash.
+2021-01-08 20:24:39,155 | INFO <> [SETTINGS] №2 Response > 1.
+2021-01-08 20:24:39,157 | DEBUG <> Using proactor: IocpProactor.
+2021-01-08 20:24:39,563 | WARNING <> C:\Users\андерграунд\AppData\Local\Programs\Python\Python39\lib\site-packages\fuzzywuzzy\fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+.
+2021-01-08 20:24:39,705 | DEBUG <> [MAIN] Stage passed.
+2021-01-08 20:24:39,706 | INFO <> [SETTINGS] №1 Requesting the settings file > BASE, useragent.
+2021-01-08 20:24:39,706 | INFO <> [SETTINGS] №2 Response > 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36'.
+2021-01-08 20:24:39,708 | INFO <> [MAIN] Folder >content< created.
+2021-01-08 20:24:39,710 | INFO <> [MAIN] Folder >Temp< created.
+2021-01-08 20:24:39,710 | INFO <> [SETTINGS] №1 Requesting the settings file > BASE, parsefile.
+2021-01-08 20:24:39,710 | INFO <> [SETTINGS] №2 Response > parse.txt.
+2021-01-08 20:24:39,711 | DEBUG <> [MAIN] Number of lines:1.
+2021-01-08 20:24:42,781 | INFO <> [SETTINGS] №1 Requesting the settings file > BASE, getallurl.
+2021-01-08 20:24:42,781 | INFO <> [SETTINGS] №2 Response > False.
+2021-01-08 20:24:42,783 | INFO <> [MAIN] Uploaded 0 of 1.
+2021-01-08 20:24:42,783 | INFO <> [SETTINGS] №1 Requesting the settings file > BASE, parsefile.
+2021-01-08 20:24:42,783 | INFO <> [SETTINGS] №2 Response > parse.txt.
+2021-01-08 20:24:42,785 | INFO <> [SETTINGS] №1 Requesting the settings file > FILTER, filterurl.
+2021-01-08 20:24:42,785 | INFO <> [SETTINGS] №2 Response > https://xxxmax.net.
+2021-01-08 20:24:42,795 | DEBUG <> Starting new HTTPS connection (1): xxxmax.net:443.
+2021-01-08 20:24:45,813 | DEBUG <> https://xxxmax.net:443 "GET /brazzers-feeling-up-aila/ HTTP/1.1" 200 None.
